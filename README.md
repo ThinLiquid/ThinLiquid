@@ -1,1 +1,1 @@
-[![Discord](https://easylanyard.glitch.me/profile/620492146406981642?eaooe)](https://discord.com/users/620492146406981642)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,css,html,ps,vscode,regex,raspberrypi,tailwindcss,lua&perline=5)](https://skillicons.dev)
