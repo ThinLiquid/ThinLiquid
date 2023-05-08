@@ -15,6 +15,7 @@
   |:------------------:|:------------------------------:|:----------------------:|
   | <img src="https://skillicons.dev/icons?i=ts,js,react,python" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=bash,git,photoshop" alt="web dev" height="40"/> |
   
+  <br/><br/>
   <b>kawaii cat counter :3</b><br/>
-  <img src="https://count.getloli.com/get/@ThinLiquid?theme=moebooru">
+  [![kawaii cat counter](https://count.getloli.com/get/@ThinLiquid?theme=moebooru)](https://moe-counter.glitch.me)
 </div>
