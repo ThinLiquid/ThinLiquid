@@ -1,7 +1,9 @@
 <div align="center">
   
   # hewo i'm `ThinLiquid`!
-  > "how to exit vim?!!?!" – ThinLiquid
+  ```diff
+  "how to exit vim?!!?!" – ThinLiquid
+  ```
   
   ### `👤 About Me`
 
