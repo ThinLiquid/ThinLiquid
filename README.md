@@ -20,6 +20,7 @@
 `>` **tools n' stuff**
 
 <img src="https://skillicons.dev/icons?i=bash,git,photoshop" alt="web dev" height="40"/>
-
-#### kawaii cat counter :3
-<img src="https://count.getloli.com/get/@ThinLiquid?theme=moebooru">
+<p align="center">
+  <h4>kawaii cat counter :3</h4>
+  <img src="https://count.getloli.com/get/@ThinLiquid?theme=moebooru">
+</p>
