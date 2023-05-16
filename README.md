@@ -15,6 +15,8 @@
   |:------------------:|:------------------------------:|:----------------------:|
   | <img src="https://skillicons.dev/icons?i=ts,js,react,python,java" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=bash,git,photoshop" alt="web dev" height="40"/> |
   
+  ### `📊 Dev Breakdown`
+  
   <!--START_SECTION:waka-->
 
 ```text
