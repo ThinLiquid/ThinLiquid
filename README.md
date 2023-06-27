@@ -5,7 +5,7 @@
   
   ### `👤 About Me`
 
-  | `💻`  I am currently working on a web game called [`The Factory`](https://github.com/ThinLiquid/factory-sim).<br/>`📦`  I love working with `JavaScript`, learning `Java` and `Python`!</br>`🐈`  I love cats :3 |
+  | `💻`  I am currently working on __nothing__.<br/>`📦`  I love working with `JavaScript`, learning `Java` and `Python`!</br>`🐈`  I love cats :3 |
   |:---|
 
   
