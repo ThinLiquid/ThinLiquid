@@ -13,7 +13,7 @@
   
   | `>` **languages**  | `>` **glorified text editors** | `>` **tools n' stuff** |
   |:------------------:|:------------------------------:|:----------------------:|
-  | <img src="https://skillicons.dev/icons?i=ts,js,react" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=bash,git,photoshop" alt="web dev" height="40"/> |
+  | <img src="https://skillicons.dev/icons?i=ts,js,react" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=vscode,neovim" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=bash,git" alt="web dev" height="40"/> |
   
   ### `📊 Dev Breakdown`
   
