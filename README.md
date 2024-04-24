@@ -5,7 +5,7 @@
   
   ### `👤 About Me`
 
-  | `💻`  I am currently working on __FlowOS__.<br/>`📦`  I love working with `JavaScript`, and learning `Python`!</br>`🐈`  I love cats :3 |
+  | `💻`  I am currently working on [__://buffer__](https://github.com/ThinLiquid/Spotify-Visualizer).<br/>`📦`  I love working with `JavaScript`, and learning `Python`!</br>`🐈`  I love cats :3 |
   |:---|
 
   
