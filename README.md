@@ -5,7 +5,7 @@
   
   ### `👤 About Me`
 
-  | `💻`  I am currently working on [__://buffer__](https://github.com/ThinLiquid/buffer).<br/>`📦`  I love working with `JavaScript`, and learning `Python`!</br>`🐈`  I love cats :3 |
+  | `💻`  I am currently working on **nothin**.<br/>`📦`  I love working with `TypeScript`.</br>`🐈`  I love cats :3 |
   |:---|
 
   
