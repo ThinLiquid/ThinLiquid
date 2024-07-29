@@ -20,7 +20,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SCSS         1 hr 19 mins    ████████████▓░░░░░░░░░░░░   51.29 %
+TypeScript   1 hr 13 mins    ████████████░░░░░░░░░░░░░   47.73 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
