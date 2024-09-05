@@ -18,5 +18,10 @@
     name: 'caught',
     shortcodes: ['caught'],
     url: 'https://cdn3.emoji.gg/emojis/9881-caught-in-4k.png'
+  },
+  {
+    name: 'fack u',
+    shortcodes: ['fack_u'],
+    url: 'https://cdn3.emoji.gg/emojis/1911-yellowguy-double-middle-finger.png'
   }
 ]
