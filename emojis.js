@@ -13,5 +13,10 @@
     name: 'amogus',
     shortcodes: ['amogus'],
     url: 'https://cdn3.emoji.gg/emojis/4373-amongus-dancing.gif'
+  },
+  {
+    name: 'caught',
+    shortcodes: ['caught'],
+    url: 'https://cdn3.emoji.gg/emojis/9881-caught-in-4k.png'
   }
 ]
