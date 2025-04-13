@@ -20,11 +20,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Astro        55 mins         ██████████████▒░░░░░░░░░░   57.27 %
-Markdown     30 mins         ████████░░░░░░░░░░░░░░░░░   31.59 %
-TypeScript   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
